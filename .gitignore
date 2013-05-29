@@ -6,3 +6,8 @@
 *.csproj
 *.unityproj
 *.sln
+
+.DS_Store
+
+*.pidb
+*.userprefs
