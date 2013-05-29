@@ -7,7 +7,7 @@ Play it here, with a friend: http://omgwtfgames.com/games/tadpoles/
 
 Fishing Jam post: http://jam.legendaryfisher.com/forum/viewtopic.php?f=3&t=176
 
-![Title Screen](builds/screenshots/titles.png?raw=true "Title Screen")
+![Title Screen](builds/screenshots/title.png?raw=true "Title Screen")
 
 ![Game](builds/screenshots/game.png?raw=true "In game")
 
